@@ -3,7 +3,7 @@
 A visually rich and fully responsive **Netflix Landing Page Clone** built using **HTML**, **CSS**, and **JavaScript**. This project replicates the design and layout of the original Netflix homepage with custom styles and static front-end elements.
 
 ### 🔗 Live Demo  
-🌐 [Watch it Live](https://netflix-iota-flame.vercel.app)
+🌐 [Watch it Live]([https://netflix-iota-flame.vercel.app](https://netflix-j17ia381u-adil-hassan-a-ks-projects.vercel.app/))
 
 ---
 
